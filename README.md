@@ -307,8 +307,4 @@ This project presents a complete and realistic example of a **power side-channel
 
 The challenge highlights the gap between **algorithmic security** and **implementation security**, and emphasizes the importance of considering physical leakage in the design of secure embedded systems.
 
----
 
-## Disclaimer
-
-This repository is provided strictly for educational and research purposes in the context of a legal CTF challenge.
