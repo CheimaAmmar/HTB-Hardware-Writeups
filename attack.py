@@ -5,8 +5,8 @@ import os
 import time
 from collections import Counter
 
-HOST = "154.57.164.65"
-PORT = 31402
+HOST = "X.X.X.X"
+PORT = X
 
 NUM_TRACES = 500
 DELAY_BETWEEN_TRACES = 0.03
